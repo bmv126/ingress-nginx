@@ -65,8 +65,8 @@ export DATADOG_CPP_VERSION=af53c523787cca108ae9f458ea5c962e48187a36
 # Check for recent changes: https://github.com/SpiderLabs/ModSecurity-nginx/compare/v1.0.2...master
 export MODSECURITY_VERSION=1.0.2
 
-# Check for recent changes: https://github.com/SpiderLabs/ModSecurity/compare/v3.0.5...v3/master
-export MODSECURITY_LIB_VERSION=v3.0.5
+# Check for recent changes: https://github.com/SpiderLabs/ModSecurity/compare/v3.0.6...v3/master
+export MODSECURITY_LIB_VERSION=v3.0.6
 
 # Check for recent changes: https://github.com/coreruleset/coreruleset/compare/v3.3.2...v3.3/master
 export OWASP_MODSECURITY_CRS_VERSION=v3.3.2
